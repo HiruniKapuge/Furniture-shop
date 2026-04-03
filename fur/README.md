@@ -1,6 +1,6 @@
 
 
-# 🛋️ FurnitureHub - Full Stack E-Commerce Platform
+# 🛋️ New Sisira Furniture Shop - Full Stack E-Commerce Platform
 
 <img width="1918" height="829" alt="Screenshot 2026-04-03 102136" src="https://github.com/user-attachments/assets/8d3f550b-857f-4c1d-a3f5-287267c2dd46" />
 
